@@ -1,0 +1,24 @@
+/*
+The main SCSS file for everything, yep
+*/
+
+@import "tachyons";
+
+body {
+  height: 100vh;
+}
+.square {
+  padding-bottom: 25%; // 1:1 aspect ratio based on w-25
+}
+// .top {
+//   border-top-width: 1rem;
+// }
+// .bottom {
+//   border-bottom-width: 1rem;
+// }
+// .right {
+//   border-right-width: 1rem;
+// }
+// .left {
+//   border-left-width: 1rem;
+// }
