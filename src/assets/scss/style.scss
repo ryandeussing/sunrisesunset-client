@@ -29,3 +29,42 @@ body {
 .right {
   right: 1rem;
 }
+.name {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 8px;
+  bottom: 5px;
+  right: 5px;
+  @media screen and (min-width:30em) {
+    font-size: 12px;
+    bottom: 5px;
+    right: 5px;
+  }
+  @media screen and (min-width:667px) {
+    font-size: 14px;
+    bottom: 10px;
+    right: 10px;
+  }
+  @media screen and (min-width:768px) {
+    font-size: 1rem;
+    bottom: 1rem;
+    right: 1rem;
+  }
+}
+
+// ns
+@media screen and (min-width:30em) {
+}
+
+// m
+@media screen and (min-width:30em) and (max-width:60em) {
+
+}
+
+// l
+@media screen and (min-width:60em) {
+
+}
+
+
+
+
