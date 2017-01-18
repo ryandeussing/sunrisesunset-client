@@ -58,6 +58,7 @@ test/
 *.sublime-project
 *.sublime-workspace
 *.sublime-projectcompletions
+.rbenv-gemsets
 
 bower_components
 
