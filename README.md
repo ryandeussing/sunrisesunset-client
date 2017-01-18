@@ -9,7 +9,7 @@ Allard Van Hoorn, code by Ryan Deussing
 $ npm install && bundle install
 $ gulp
 ```
-### To re-build productiom files
+### To re-build production files
 
 This will spit production-ready code into `dist`
 
