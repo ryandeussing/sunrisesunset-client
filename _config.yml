@@ -1,6 +1,6 @@
 # Title, decription, tagline and URL for your site
 # Can be used in your theme by calling 'site.title' and so on
-title: Whitney Sunrise Sunset
+title: SunriseSunset
 description:
 url:
 
@@ -12,13 +12,7 @@ exclude: ['assets']
 # Same as the title etc for your site but can instead be
 # called by using 'site.author.name' and so on
 # NOTE: Don't use @ in front of your Twitter username
-author:
-  name: =
-  email:
-  uri:
-  bio:
-  twitter:
-  github:
+author: Allard Van Hoorn + Ryan Deussing
 
 # _config.build.yml overwrites these options when you run `gulp build`
 # Enables future posts (posts with dates in the future) and drafts
