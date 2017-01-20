@@ -1,7 +1,7 @@
 $.getJSON ('http://elegant-bean.cloudvent.net/colors.json', function (json) {
   var colors = json.colors
   var pixels = $('.regular > .inner-square')
-  var tallpixels = $('.tall > .inner-square')
+  var tallpixels = $('.tall > .inner-square') // must loop through colors array twice
   var times = [1000, 2500, 5000, 6000, 7000, 8000, 10000]
   pixels.each( function( i ){
     $(this).append('<p class="mv0 ttu name black-75 absolute">' + colors[i].name + '<p>')

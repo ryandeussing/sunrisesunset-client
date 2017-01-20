@@ -15,6 +15,14 @@ body {
     padding-bottom: 25%; // 1:1 aspect ratio based on w-25
   }
 }
+
+.tall {
+  display: none;
+  @media screen and (min-width: 769px) and (max-width: 1789px) {
+    display: block;
+  }
+}
+
 .inner-square {
   top: .5rem;
   right: .5rem;
@@ -69,6 +77,7 @@ body {
 @media screen and (min-width:60em) {
 
 }
+
 
 
 
