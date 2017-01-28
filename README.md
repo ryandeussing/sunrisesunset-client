@@ -1,5 +1,5 @@
 # Whitney Sunrise Sunset
-Allard Van Hoorn, code by Ryan Deussing
+Allard van Hoorn, code by Ryan Deussing
 
 [DEMO](http://sunrisesunset.surge.sh/)
 
