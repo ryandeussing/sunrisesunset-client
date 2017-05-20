@@ -1,7 +1,7 @@
 # Whitney Sunrise Sunset
-Allard Van Hoorn, code by Ryan Deussing
+Allard van Hoorn, code by Ryan Deussing
 
-[DEMO](http://sunrisesunset.surge.sh/)
+Demo at [sunrisesunset.surge.sh](http://sunrisesunset.surge.sh/)
 
 ### To run locally
 
