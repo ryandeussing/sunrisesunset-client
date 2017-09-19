@@ -6,6 +6,9 @@ The main SCSS file for everything, yep
 
 body {
   height: 100vh;
+  background: url(/assets/images/whitney.png);
+  background-size: contain;
+  background-repeat: no-repeat;
 }
 .square {
   width: 50%;
